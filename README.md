@@ -1,2 +1,2 @@
 # hearing-aid-pets
-Simulated Actuator / Gateway side project for hearing aid for pets (KIV)
+Experiment to integrate live streaming of MQTT publish messages with Plotly to simulate sound localization
